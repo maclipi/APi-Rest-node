@@ -1,0 +1,26 @@
+{
+  "name": "mayank-rest-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongodb": "",
+    "body-parser": "~1.0.1"
+  },
+  "version": "1.0.0",
+  "description": "Basic version REST API",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "\"node",
+    "rest",
+    "api",
+    "tutorial\""
+  ],
+  "author": "Mayank",
+  "license": "ISC"
+}
